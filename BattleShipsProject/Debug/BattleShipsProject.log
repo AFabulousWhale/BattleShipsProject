@@ -1,0 +1,9 @@
+﻿  BattleShipsProject.cpp
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(245,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(285,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(286,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(332,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(384,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(512,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mary\Downloads\BattleShipsProject\BattleShipsProject\BattleShipsProject.cpp(210): warning C4715: 'CheckPlacement': not all control paths return a value
+  BattleShipsProject.vcxproj -> C:\Users\Mary\Downloads\BattleShipsProject\Debug\BattleShipsProject.exe
